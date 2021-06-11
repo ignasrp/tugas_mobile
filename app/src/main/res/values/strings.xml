@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FandlysToDo</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="viewOrEditTodo">View/Edit Todo</string>
+    <string name="createTodo">Create Todo</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="deadline">Deadline</string>
+    <string name="search">Search</string>
+    <string name="sortby">SortBy</string>
+    <string name="created">Created</string>
+
+</resources>
